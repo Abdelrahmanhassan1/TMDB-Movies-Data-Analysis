@@ -17,10 +17,10 @@ In this project, we will discuss the most important parameters to reach a succes
 
 ## Results and Conclusion:
 After answering the questions and doing our analysis we found that:<br>
-● The Average budget is 63072198.1 $.
-● The Average Duration time of a movie is 114.7 min.
-● The year 2015 earned the most profit than the previous years.
-● Genre of the movie must be : Comedy, , Action, Drama, Adventure, Thriller.
-● Any one of these should be in the cast :Tom Cruise, Tom Hanks, Sylvester Stallone, Cameron Diaz, Brad Pitt
+* The Average budget is 63072198.1 $.
+* The Average Duration time of a movie is 114.7 min.
+* The year 2015 earned the most profit than the previous years.
+* Genre of the movie must be : Comedy, , Action, Drama, Adventure, Thriller.
+* Any one of these should be in the cast :Tom Cruise, Tom Hanks, Sylvester Stallone, Cameron Diaz, Brad Pitt
 
 
